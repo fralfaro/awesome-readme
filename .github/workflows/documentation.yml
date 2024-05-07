@@ -1,4 +1,4 @@
-name: GitHub Actions
+name: CI
 on: [push]
 jobs:
   Pages:
@@ -16,6 +16,8 @@ jobs:
         run: pip install poetry
       - name: Activate venv
         run: poetry install
+      - name: Execute Python script
+        run: poetry run python src/main.py
       - name: Build the book
         run: poetry run mkdocs build --site-dir public
       - name: GitHub Pages action

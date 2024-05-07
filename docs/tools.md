@@ -7,78 +7,67 @@ hide:
 # Tools
 
 
-::cards:: cols=5
+??? example "[Common Readme](https://github.com/hackergrrl/common-readme#readme) <br>A common readme style for Node. Includes a guide and a readme generator."
+    <a href="https://github.com/hackergrrl/common-readme#readme">
+    <img src="../images/download/Common_Readme.png" align="center">
+    </a>
 
-- title: Amazing GitHub Template
-  content: "Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitH... "
-  image: images/tools.png
-  url: https://github.com/dec0dOS/amazing-github-template#readme
+??? example "[Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) <br>README editing and project analysis/feedback."
+    <a href="https://github.com/lappleapple/feedmereadmes#readme">
+    <img src="../images/download/Feedmereadmes.png" align="center">
+    </a>
 
-- title: Common Readme
-  content: A common readme style for Node. Includes a guide and a readme generator."
-  image: images/tools.png
-  url: https://github.com/hackergrrl/common-readme#readme
+??? example "[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) <br>Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime."
+    <a href="https://github.com/anuraghazra/github-readme-stats#readme">
+    <img src="../images/download/GitHub_Readme_Stats.png" align="center">
+    </a>
 
-- title: Feedmereadmes
-  content: README editing and project analysis/feedback
-  image: images/tools.png
-  url: https://github.com/lappleapple/feedmereadmes#readme
+??? example "[Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) <br>Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour."
+    <a href="https://github.com/sourcerer-io/hall-of-fame#readme">
+    <img src="../images/download/Hall-of-fame.png" align="center">
+    </a>
 
-- title: GitHub Readme Stats
-  content: "Dynamically generated customizable GitHub cards for README. Stats, extra pins, to... "
-  image: images/tools.png
-  url: https://github.com/anuraghazra/github-readme-stats#readme
+??? example "[Make a README](https://www.makeareadme.com/) <br>A guide to writing READMEs. Includes an editable template with live Markdown rendering."
+    <a href="https://www.makeareadme.com/">
+    <img src="../images/download/Make_a_README.png" align="center">
+    </a>
 
-- title: Hall-of-fame
-  content: "Helps show recognition to repo contributors on README. Features new/trending/top ... "
-  image: images/tools.png
-  url: https://github.com/sourcerer-io/hall-of-fame#readme
+??? example "[README best practices](https://github.com/jehna/readme-best-practices#readme) <br>A place to copy-paste your README.md from"
+    <a href="https://github.com/jehna/readme-best-practices#readme">
+    <img src="../images/download/README_best_practices.png" align="center">
+    </a>
 
-- title: Make a README
-  content: "A guide to writing READMEs. Includes an editable template with live Markdown rend... "
-  image: images/tools.png
-  url: https://www.makeareadme.com/
+??? example "[readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) <br>A CLI that generates beautiful README.md files"
+    <a href="https://github.com/kefranabg/readme-md-generator#readme">
+    <img src="../images/download/readme-md-generator.png" align="center">
+    </a>
 
-- title: README best practices
-  content: A place to copy-paste your README.md from
-  image: images/tools.png
-  url: https://github.com/jehna/readme-best-practices#readme
+??? example "[Readme.so](https://readme.so/) <br>A simple editor that allows you to quickly add and customize all the sections you need for your project's readme."
+    <a href="https://readme.so/">
+    <img src="../images/download/Readme_so.png" align="center">
+    </a>
 
-- title: readme-md-generator
-  content: A CLI that generates beautiful README.md files
-  image: images/tools.png
-  url: https://github.com/kefranabg/readme-md-generator#readme
+??? example "[READMINE](https://github.com/mhucka/readmine) <br>A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed."
+    <a href="https://github.com/mhucka/readmine">
+    <img src="../images/download/READMINE.png" align="center">
+    </a>
 
-- title: Readme.so
-  content: "A simple editor that allows you to quickly add and customize all the sections you... "
-  image: images/tools.png
-  url: https://readme.so/
+??? example "[StackEdit](https://stackedit.io/) <br>A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme."
+    <a href="https://stackedit.io/">
+    <img src="../images/download/StackEdit.png" align="center">
+    </a>
 
-- title: READMINE
-  content: "A thorough, clear and self-describing README file template for software projects;... "
-  image: images/tools.png
-  url: https://github.com/mhucka/readmine
+??? example "[Standard Readme](https://github.com/RichardLitt/standard-readme#readme) <br>A standard README style specification. Has a generator to help create spec-compliant READMEs, too."
+    <a href="https://github.com/RichardLitt/standard-readme#readme">
+    <img src="../images/download/Standard_Readme.png" align="center">
+    </a>
 
-- title: StackEdit
-  content: "A user-friendly online editor that allows you to quickly customize all the sectio... "
-  image: images/tools.png
-  url: https://stackedit.io/
+??? example "[user-statistician](https://github.com/cicirello/user-statistician) <br>A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes."
+    <a href="https://github.com/cicirello/user-statistician">
+    <img src="../images/download/user-statistician.png" align="center">
+    </a>
 
-- title: Standard Readme
-  content: "A standard README style specification. Has a generator to help create spec-compli... "
-  image: images/tools.png
-  url: https://github.com/RichardLitt/standard-readme#readme
-
-- title: user-statistician
-  content: "A GitHub Action that generates SVG of detailed GitHub user activity for profile r... "
-  image: images/tools.png
-  url: https://github.com/cicirello/user-statistician
-
-- title: Zalando's README Template
-  content: Simple template to help you cover all the basics
-  image: images/tools.png
-  url: https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme
-
-
-
-::/cards::
+??? example "[Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) <br>Simple template to help you cover all the basics."
+    <a href="https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme">
+    <img src="../images/download/Zalando's_README_Template.png" align="center">
+    </a>

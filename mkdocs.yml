@@ -19,6 +19,8 @@ markdown_extensions:
   - neoteroi.cards
   - neoteroi.timeline
   - neoteroi.projects
+  - admonition
+  - pymdownx.details
 
 extra_css:
   - css/neoteroi-mkdocs.css
@@ -32,15 +34,15 @@ theme:
   palette:
   - media: '(prefers-color-scheme: light)'
     scheme: default
-    primary: black
-    accent: amber
+    primary: deep purple
+    accent: deep purple
     toggle:
       icon: material/lightbulb
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     scheme: slate
-    primary: black
-    accent: amber
+    primary: deep purple
+    accent: deep purple
     toggle:
       icon: material/lightbulb-outline
       name: Switch to light mode
@@ -68,8 +70,6 @@ extra:
 
 # Plugins
 plugins:
-  - mkdocs-jupyter:
-      kernel_name: python3
   - search
 
 # Extra javascript
@@ -80,8 +80,8 @@ extra_javascript:
 
 #TOC
 nav:
-    - Home: index.md
-    - examples.md
-    - articles.md
-    - tools.md
-    - others.md
+    - 🏠 Home: index.md
+    - 📄 Examples: examples.md
+    - 🗞️ Articles: articles.md
+    - 🛠️ Tools: tools.md
+    - ⭐ More: others.md
